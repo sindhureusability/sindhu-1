@@ -11,6 +11,7 @@ public class demo_2 {
      j=i+++j;
      System.out.println(i+"-"+j);
 		System.out.println("Sindhu");
+		System.out.println("Sindhu2");
   
 	}
 
