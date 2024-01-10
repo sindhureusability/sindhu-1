@@ -10,6 +10,7 @@ public class demo_2 {
      int j=i;
      j=i+++j;
      System.out.println(i+"-"+j);
+		System.out.println("Sindhu");
   
 	}
 
